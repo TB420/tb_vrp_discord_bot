@@ -1,6 +1,6 @@
 # TB's vRP Discord Bot
 
-Kind of gave up with this so felt like making it public. Feel Free To Make Additions. If they are good they will be added to the repo.
+Kind of gave up with this so felt like making it public. Probabbly did alot of things wrong/badly.Feel Free To Make Additions. If they are good they will be added to the repo.
 
 **Settings Example**
 ```javascript
