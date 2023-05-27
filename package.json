@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Umut Bayraktar",
+  "author": "Telebox",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.7.1",
