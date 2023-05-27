@@ -1,5 +1,6 @@
 # TB's vRP Discord Bot
 
+Feel Free To Make Additions. If they are good they will be added to the repo.
 
 **Settings Example**
 ```javascript
